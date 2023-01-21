@@ -1,0 +1,64 @@
+.header{
+width:680px;
+height: 60px;
+background-color:aquamarine;
+color:white;
+}
+
+.header-logo{
+letter-spacing:1px;
+float:left;
+padding:20px;
+font-size:30px;
+
+}
+
+.header-list{
+float:right;
+}
+
+.main {
+background-image:url(https://thumb.ac-illust.com/64/64cf45f6f717bb1bf1b9178c944ae2a2_w.jpeg);
+background-size:cover;
+}
+.contents{
+background-size:cover;
+width:680px;
+}
+
+.contents h1{
+color:white;
+}
+
+
+.contents img{
+width:200px;
+height:200px;
+}
+
+.contents p{
+font-size:20px;
+border-top: 2px　solid red;
+background-color:white;
+padding:20px 20px;
+}
+
+
+.footer{
+background-color:orange;
+width:600px;
+height:50px;
+}
+
+.footer-logo{
+float:left;
+font-size:30px;
+color:white;
+}
+
+.footer-list li{
+float:right;
+font-size:10px;
+color:white;
+padding:20px;
+}
